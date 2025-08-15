@@ -1,5 +1,8 @@
 # Comgraphic-Assignment1
+
 discription
+
+
 Use lines, curves, and include one midpoint circle algorithm or one midpoint ellipse algorithm to create a 600 x 600 animation
 Work in pairs
 Draw animation in a theme of “WHAT IF I REBORNED”
